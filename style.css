@@ -1,4 +1,6 @@
-
+.greeting{
+    text-align: center;
+}
 #Titulo{
     color: tomato;
 }
